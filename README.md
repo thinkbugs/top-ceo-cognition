@@ -1,5 +1,5 @@
-# top-ceo-cognition.skll x100 AI Avatar
-## 成为顶级CEO的认知模型.skil x100 AI分身
+# top-ceo-cognition.skill x100 AI Avatar
+## 成为顶级CEO的认知模型.skill x100 AI分身
 
 <div align="center">
 
